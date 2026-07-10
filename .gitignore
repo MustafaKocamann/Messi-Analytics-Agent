@@ -1,0 +1,12 @@
+.venv
+/.venv
+.uv-cache
+/.uv-cache
+.env
+.agents
+/.agents
+__pycache__
+/.cache
+/.pytest_cache
+/.mypy_cache
+/.ipynb_checkpoints
